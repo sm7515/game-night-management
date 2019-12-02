@@ -59,4 +59,4 @@ Management system:
 https://game-night-management.herokuapp.com/
 
 dashboard: 
-under construction
+https://game-night-leaderboard.herokuapp.com/
